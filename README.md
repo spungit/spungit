@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @spungit
-- 👀 I’m interested in applying machine learning to healthcare problems.
+- 👋 Hi, I’m Sarah.
+- 👀 I am researching machine learning approaches to clinical research informatics problems.
+- 🏨 I am interested in data science project management positions.
 
 <!---
 spungit/spungit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
